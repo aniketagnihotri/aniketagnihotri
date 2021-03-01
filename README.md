@@ -11,3 +11,5 @@
 <a href="https://github.com/aniketagnihotri">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aniketagnihotri&layout=compact&hide_border=true&theme=dracula" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketagnihotri)](https://github.com/anuraghazra/github-readme-stats)
